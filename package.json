@@ -1,0 +1,23 @@
+{
+  "name": "gitexercise",
+  "version": "1.0.0",
+  "description": "練習",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sean142/GitExercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sean142/GitExercise/issues"
+  },
+  "homepage": "https://github.com/sean142/GitExercise#readme",
+  "dependencies": {
+    "aos": "^2.3.4",
+    "bootstrap": "^5.1.3"
+  }
+}
